@@ -57,6 +57,7 @@ const reps = [
       "1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. Bb5 exd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8. Bg5 Be7 9. O-O-O",
       "1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. Bb5 Bd7 5. Nc3 exd4 6. Nxd4 Nxd4 7. Bxd7+ Qxd7 8. Qxd4 Nf6 9. Bg5 Be7 10. O-O-O",
     ],
+    fullLine: "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 (3... Nf6 4. d4 Nxe4 (4... exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8. Nc3 Qa5 (8... Qh5 9. Nxe4 Be6 10. Bg5 Bd6 11. Nxd6+ cxd6 12. Bf4 Qd5 13. c3) 9. Nxe4 Be6 10. Neg5 O-O-O 11. Nxe6 fxe6 12. Rxe6 Bd6 13. Bg5 Rde8 14. Qe2) 5. dxe5 Bc5 6. Qd5 Bxf2+ 7. Kf1 O-O 8. Qxe4) 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ (6... Bb6 7. e5 Ng4 8. h3 Nh6 9. d5 Na5 10. Bg5 f6 11. exf6) 7. Nc3 Nxe4 8. O-O Nxc3 (8... Bxc3 9. d5 Ne5 (9... Bf6 10. Re1 Ne7 11. Rxe4 d6 12. Bg5 Bxg5 13. Nxg5 O-O (13... h6 14. Bb5+ c6 15. Nxf7 Kxf7 16. Qf3+ Kg8 17. Rae1 cxb5 18. Rxe7) 14. Nxh7 Kxh7 15. Qh5+ Kg8 16. Rh4) 10. bxc3 Nxc4 11. Qd4 O-O 12. Qxc4 Nd6 13. Qb3) 9. bxc3 Bxc3 10. Ba3 Bxa1 (10... d6 11. Rc1 Ba5 (11... Bb4 12. Bxb4 Nxb4 13. Qe1+ Qe7 14. Qxb4) 12. Qa4 O-O 13. d5 Ne5 14. Nxe5 dxe5 15. Qxa5) 11. Re1+ Ne7 12. Bxe7 Qxe7 13. Rxe7+ Kxe7 14. Qxa1"
   },
   {
     id: 2,
